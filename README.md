@@ -11,15 +11,16 @@ I am a passionate and driven computer science student with a focus on **C++** an
 - **Tools & Platforms:** GitHub, Visual Studio Code, AWS (Learning), Git
 
 ---
+# 💼 Featured Projects
 
-## 💼 Featured Projects
-- 🐍 **Python:**
-  - [Password Generator](#) - A tool to generate secure, random passwords.
-  - [Expense Tracker](#) - A terminal-based app to log and track expenses.
+### 🐍 Python:
+- [Password Generator](#) - A tool to generate secure, random passwords.
+- [To-Do List Application](#) - A terminal-based app to manage and track daily tasks.
+- [Expense Tracker](#) - A terminal-based app to log and track expenses.
 
-- 💾 **C++:**
-  - [Library Book Management System](#) - A system to manage book inventory, borrowing, and returning.
-  - [Maze Solver Using BFS/DFS](#) - An algorithmic solution to find paths in a randomly generated maze.
+### 💾 C++:
+- [Hangman Game](#) - A classic word-guessing game with a limited number of attempts.
+- [Currency Converter](#) - Converts amounts between currencies using predefined exchange rates.
 
 *(Links will be updated once repositories are available)*
 
