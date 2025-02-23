@@ -14,7 +14,6 @@ I am a passionate and driven computer science student with a focus on **C++** an
 # 💼 Featured Projects
 
 ### 🐍 Python:
-- [To-Do List Application](#) - A terminal-based app to manage and track daily tasks.
 - [Expense Tracker](#) - A terminal-based app to log and track expenses.
 
 ### 💾 C++:
